@@ -1,0 +1,28 @@
+Test Case 1: Sign Up
+1. Open browser and go to https://www.demoblaze.com/
+2. Click on “Sign up” button
+3. Enter username and password
+4. Click “Sign up”
+5. Handle confirmation alert and close browser
+
+Test Case 2: Log In
+1. Open DemoBlaze
+2. Click “Log in”
+3. Enter valid username and password
+4. Verify “Welcome <username>” message
+5. Close browser
+
+Test Case 3: Buy Product
+1. Log in to DemoBlaze
+2. Select “Laptops” category
+3. Choose a product (e.g., Sony vaio i5)
+4. Add to cart and open cart
+5. Click “Place Order”
+6. Fill in payment form and confirm purchase
+7. Verify “Thank you for your purchase!” message
+
+Test Case 4: Log Out
+1. Log in to DemoBlaze
+2. Click “Log out”
+3. Verify “Log in” button appears again
+4. Close browser

@@ -1,0 +1,25 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Robot Framework logs
+output.xml
+report.html
+log.html
+*.png
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Webdrivers and executables
+chromedriver.exe
+geckodriver.exe
